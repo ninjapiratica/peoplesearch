@@ -187,15 +187,15 @@
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
   </ItemGroup>
   <ItemGroup>
-    <TypeScriptCompile Include="D:\Code\peoplesearch\PeopleSearch.Web\PeopleSearch.Web\\Scripts\src\app\address.component.ts" />
-    <TypeScriptCompile Include="D:\Code\peoplesearch\PeopleSearch.Web\PeopleSearch.Web\\Scripts\src\app\address.ts" />
-    <TypeScriptCompile Include="D:\Code\peoplesearch\PeopleSearch.Web\PeopleSearch.Web\\Scripts\src\app\app.component.ts" />
-    <TypeScriptCompile Include="D:\Code\peoplesearch\PeopleSearch.Web\PeopleSearch.Web\\Scripts\src\app\app.module.ts" />
-    <TypeScriptCompile Include="D:\Code\peoplesearch\PeopleSearch.Web\PeopleSearch.Web\\Scripts\src\app\people.component.ts" />
-    <TypeScriptCompile Include="D:\Code\peoplesearch\PeopleSearch.Web\PeopleSearch.Web\\Scripts\src\app\person.component.ts" />
-    <TypeScriptCompile Include="D:\Code\peoplesearch\PeopleSearch.Web\PeopleSearch.Web\\Scripts\src\app\person.service.ts" />
-    <TypeScriptCompile Include="D:\Code\peoplesearch\PeopleSearch.Web\PeopleSearch.Web\\Scripts\src\app\person.ts" />
-    <TypeScriptCompile Include="D:\Code\peoplesearch\PeopleSearch.Web\PeopleSearch.Web\\Scripts\src\main.ts" />
+    <TypeScriptCompile Include="Scripts\src\app\address.component.ts" />
+    <TypeScriptCompile Include="Scripts\src\app\address.ts" />
+    <TypeScriptCompile Include="Scripts\src\app\app.component.ts" />
+    <TypeScriptCompile Include="Scripts\src\app\app.module.ts" />
+    <TypeScriptCompile Include="Scripts\src\app\people.component.ts" />
+    <TypeScriptCompile Include="Scripts\src\app\person.component.ts" />
+    <TypeScriptCompile Include="Scripts\src\app\person.service.ts" />
+    <TypeScriptCompile Include="Scripts\src\app\person.ts" />
+    <TypeScriptCompile Include="Scripts\src\main.ts" />
     <TypeScriptCompile Include="Scripts\src\app\address.component.ts" />
   </ItemGroup>
   <Target Name="BeforeBuild">
