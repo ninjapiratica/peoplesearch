@@ -10,7 +10,7 @@ import Person from './person';
     padding: 2px;
     border: 1px solid black;
     width: 300px;
-    height: 120px;
+    height: 125px;
     vertical-align: top;
     display: inline-block;
 }
@@ -18,6 +18,7 @@ import Person from './person';
 .profile-pic {
     width: 70px;
     height: 75px;
+    vertical-align: top;
 }
 
 .profile-details {
@@ -29,6 +30,10 @@ import Person from './person';
 
 .interest {
     display: inline;
+}
+
+.address {
+    max-width: 225px;
 }
 
 `],
